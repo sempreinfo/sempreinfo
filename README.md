@@ -16,6 +16,8 @@
 <br></br>
 <br></br>
 
+[![sempreinfo](https://img.shields.io/website?label=sempreinfo.com.br&style=for-the-badge&url=https://www.sempreinfo.com.br/)](https://www.sempreinfo.com.br)
+[![delphi](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)](https://www.embarcadero.com)
 <!--
 [![sempreinfo](https://img.shields.io/website?label=sempreinfo.com.br&style=for-the-badge&url=https://www.sempreinfo.com.br/)](https://www.sempreinfo.com.br)
 
