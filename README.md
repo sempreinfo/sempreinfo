@@ -4,7 +4,9 @@
   </a>  
 </p><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sempreinfo&show_icons=true&hide=contribs,prs&count_private=true&theme=default#gh-light-mode-only)
+[![sempreinfo](https://img.shields.io/website?label=sempreinfo.com.br&style=for-the-badge&url=https://www.sempreinfo.com.br/)](https://www.sempreinfo.com.br)
+
+![Sempreinfo GitHub stats](https://github-readme-stats.vercel.app/api?username=sempreinfo&show_icons=true&hide=contribs,prs&count_private=true&theme=default#gh-light-mode-only)
 
 <!--
 <div> 
