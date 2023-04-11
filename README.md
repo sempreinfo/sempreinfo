@@ -17,44 +17,42 @@
 <br></br>
 
 
-<div class="row align-items-center">
-                    <div class="col-lg-5 order-2 order-lg-1">
-                        <div class="features-box mt-5 mt-lg-0">
-                            <h3>Sistema para Postos de Combustíveis e Lojas de Conveniência</h3>
-                            <p class="text-muted web-desc">Oferecemos a sua empresa um software que acompanha o rítmo do seu negócio.</p>
-                            <ul class="text-muted list-unstyled margin-t-30 features-item-list">
-                                <li class="">Registro de Venda e Emissão de Cupom pelo POS.</li>
-                                <li class="">Automação Avançada de Bombas e Tanques.</li>
-                                <li class="">Centralização de Postos (Redes).</li>
-                            </ul>
-                            <!--a href="#" class="btn btn-custom margin-t-30 waves-effect waves-light">Saiba Mais <i class="mdi mdi-arrow-right"></i></a-->
-                        </div>
-                    </div>
-                    <div class="col-lg-7 order-1 order-lg-2">
-                        <div class="features-img mx-auto mr-lg-0">
-                            <img src="images/gas-station.svg" alt="imagem-posto" class="img-fluid">
-                        </div>
-                    </div>
-                </div>
+<div>
+  <div>
+    <div>
+      <h3>Sistema para Postos de Combustíveis e Lojas de Conveniência</h3>
+      <p">Oferecemos a sua empresa um software que acompanha o rítmo do seu negócio.</p>
+      <ul">
+        <li>Registro de Venda e Emissão de Cupom pelo POS.</li>
+        <li>Automação Avançada de Bombas e Tanques.</li>
+        <li>Centralização de Postos (Redes).</li>
+      </ul>
+    </div>
+  </div>
+  <div>
+    <div>
+      <img src="images/gas-station.svg" alt="imagem-posto">
+    </div>
+  </div>
+</div>
 
-<div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-5 order-2 order-lg-2">
-                        <div class="features-box mt-5 mt-lg-0">
-                            <h3>Sistema para empresas de Alimentação fora do Lar</h3>
-                            <p class="text-muted web-desc">Oferecemos a sua empresa um software que acompanha o rítmo do seu negócio.</p>
-                            <ul class="text-muted list-unstyled margin-t-30 features-item-list">
-                                <li class="">Gestão de Comandas, Mesas e Pré-Venda (fast food).</li>
-                                <li class="">Delivery Próprio ou Integração com IFood.</li>
-                                <li class="">Automação com catracas, leitores e coletores.</li>
-                            </ul>
-                            <!--a href="#" class="btn btn-custom margin-t-30 waves-effect waves-light">Saiba Mais <i class="mdi mdi-arrow-right"></i></a-->
-                        </div>
-                    </div>
-                    <div class="col-lg-7 order-1 order-lg-1">
-                        <div class="features-img mx-auto ml-lg-0">
-                            <img src="images/food-software.svg" alt="imagem-food" class="img-fluid">
-                        </div>
-                    </div>
-                </div>
-            </div>
+<div>
+  <div>
+    <div>
+      <div>
+        <h3>Sistema para empresas de Alimentação fora do Lar</h3>
+        <p>Oferecemos a sua empresa um software que acompanha o rítmo do seu negócio.</p>
+        <ul>
+          <li>Gestão de Comandas, Mesas e Pré-Venda (fast food).</li>
+          <li>Delivery Próprio ou Integração com IFood.</li>
+          <li>Automação com catracas, leitores e coletores.</li>
+        </ul>
+      </div>
+    </div>
+    <div>
+      <div>
+        <img src="images/food-software.svg">
+      </div>
+    </div>
+  </div>
+</div>
