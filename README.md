@@ -31,7 +31,7 @@
   </div>
   <div>
     <div>
-      <img src="images/gas-station.svg" alt="imagem-posto">
+      <img src="gas-station.png" alt="imagem-posto">
     </div>
   </div>
 </div>
@@ -51,7 +51,7 @@
     </div>
     <div>
       <div>
-        <img src="images/food-software.svg">
+        <img src="food-software.png">
       </div>
     </div>
   </div>
