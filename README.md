@@ -13,32 +13,29 @@
     </div>
   </div>
 </div>
-<br></br>
-<br></br>
 
-
-<div>
-  <div>
-    <div>
-      <h3>Sistema para Postos de Combustíveis e Lojas de Conveniência</h3>
-      <p">Oferecemos a sua empresa um software que acompanha o rítmo do seu negócio.</p>
-      <ul">
-        <li>Registro de Venda e Emissão de Cupom pelo POS.</li>
-        <li>Automação Avançada de Bombas e Tanques.</li>
-        <li>Centralização de Postos (Redes).</li>
-      </ul>
-    </div>
-  </div>
-  <div>
-    <div>
+<table>
+  <tr>
+    <td>
       <img src="gas-station.png" alt="imagem-posto">
-    </div>
-  </div>
-</div>
+    </td>
+    <td>
+      <div>
+        <h3>Sistema para Postos de Combustíveis e Lojas de Conveniência</h3>
+        <p">Oferecemos a sua empresa um software que acompanha o rítmo do seu negócio.</p>
+        <ul">
+          <li>Registro de Venda e Emissão de Cupom pelo POS.</li>
+          <li>Automação Avançada de Bombas e Tanques.</li>
+          <li>Centralização de Postos (Redes).</li>
+        </ul>
+      </div>
+    </td> 
+  </tr>
+</table>
 
-<div>
-  <div>
-    <div>
+<table>
+  <tr>
+    <td>
       <div>
         <h3>Sistema para empresas de Alimentação fora do Lar</h3>
         <p>Oferecemos a sua empresa um software que acompanha o rítmo do seu negócio.</p>
@@ -48,11 +45,9 @@
           <li>Automação com catracas, leitores e coletores.</li>
         </ul>
       </div>
-    </div>
-    <div>
-      <div>
-        <img src="food-software.png">
-      </div>
-    </div>
-  </div>
-</div>
+    </td> 
+    <td>
+      <img src="food-software.png" alt="conveniência">
+    </td>
+  </tr>
+</table>
